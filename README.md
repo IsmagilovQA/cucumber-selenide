@@ -1,0 +1,1 @@
+Test suite on Java + Gradle + Selenium + TestNG + Selenide + Cucumber + Page Object Model
